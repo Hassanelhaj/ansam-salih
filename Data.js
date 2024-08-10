@@ -1,15 +1,9 @@
 import { TfiWrite } from "react-icons/tfi";
-import Image from "next/image";
 
-import { GiEarthAmerica, GiPaper, GiTravelDress } from "react-icons/gi";
-import { AiOutlineAppstoreAdd } from "react-icons/ai";
+import fitozon from './public/imgs/projects/platforms/fitozon.jpg'
+import skin_hair from './public/imgs/projects/platforms/skin and hair.jpg'
 
 
-import { RiTravestiFill } from "react-icons/ri";
-import { FaDochub, FaPassport, FaPlane } from "react-icons/fa";
-import { BiDockBottom, BiPaperPlane } from "react-icons/bi";
-import { FiPaperclip } from "react-icons/fi";
-import { SiPaperspace } from "react-icons/si";
 
 
 
@@ -37,5 +31,23 @@ export const servicesList = [
   //   logo: <FaPassport />,
   // },
 ];
+
+export const platforms = [
+
+  {
+    id: 1,
+    title: "FITOZON",
+    link:'https://www.facebook.com/profile.php?id=61561035531563&mibextid=ZbWKwL',
+    img: fitozon
+  },
+  {
+    id: 2,
+    title: "ALHAYA SKINCARE",
+    link:'https://www.facebook.com/share/g/gJKPL9brvPvY8gd7/?mibextid=A7sQZp',
+    img: skin_hair
+  },
+ 
+];
+
 
 

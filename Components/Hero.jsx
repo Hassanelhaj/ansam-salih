@@ -35,7 +35,7 @@ const Hero = () => {
           </div>
           <p className="capitalize text-center">
             {" "}
-            I am a versatile content writer and  with a passion for creating engaging and visually appealing content. With a keen eye for detail and a strong understanding of design principles and Programming, I strive to deliver high-quality work that exceeds client expectations. I have experience in the field of social Media Marketing . I am constantly seeking new challenges and opportunities to expand my skills and knowledge in the ever-evolving world of digital marketing.
+            Experienced Social Media Manager with a proven track record of collaborating with cross-functional teams to drive engagement, brand awareness, and growth across multiple platforms. Adept at developing and executing comprehensive social media strategies that align with business goals. Skilled in content creation, community management, and data-driven analysis to optimize performance. Demonstrates strong leadership in managing campaigns, influencers, and partnerships to enhance online presence. Highly proficient in utilizing the latest social media tools and trends to maintain a competitive edge. Committed to delivering measurable results and fostering a positive brand image.
           </p>
           <div className="flex flex-col sm:flex-row justify-between items-center gap-3 mt-2 ">
             <a
